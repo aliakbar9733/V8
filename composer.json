@@ -1,4 +1,9 @@
 {
+  "authors": [{
+    "email": "alisoleimani.dev@gmail.com",
+    "name": "Aliakbar Soleimani"
+  }
+  ],
   "minimum-stability": "dev",
   "require": {
     "illuminate/routing": "^8.10",
