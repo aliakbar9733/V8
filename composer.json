@@ -6,6 +6,7 @@
     "name": "Aliakbar Soleimani"
   }
   ],
+  "license": ["MIT"],
   "minimum-stability": "dev",
   "require": {
     "illuminate/routing": "^8.10",
