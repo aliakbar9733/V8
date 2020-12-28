@@ -1,0 +1,30 @@
+{
+  "minimum-stability": "dev",
+  "require": {
+    "illuminate/routing": "^8.10",
+    "illuminate/events": "^8.10",
+    "illuminate/database": "8",
+    "eftec/bladeone": "dev-master",
+    "topfloor/composer-cleanup-vcs-dirs": "dev-master",
+    "ext-json": "*",
+    "illuminate/translation": "8.x-dev",
+    "illuminate/validation": "8.x-dev",
+    "vlucas/phpdotenv": "^5.2@dev"
+  },
+  "config": {
+    "preferred-install": {
+      "*": "dist"
+    }
+  },
+  "autoload": {
+    "files": [
+      "app/Helper/functions.php"
+    ],
+    "psr-4": {
+      "Core\\": "core",
+      "App\\Helper\\": "app/Helper",
+      "App\\Controller\\": "app/Http/Controller",
+      "App\\Model\\": "app/Database/Model"
+    }
+  }
+}

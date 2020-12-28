@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Module\\Support\\Model\\": "Database/Model",
+      "Module\\Support\\Controller\\": "Http/Controller",
+      "Module\\Support\\Middleware\\": "Http/Middleware"
+    }
+  }
+}

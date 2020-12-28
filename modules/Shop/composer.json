@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Module\\Shop\\Model\\": "Database/Model",
+      "Module\\Shop\\Controller\\": "Http/Controller"
+    }
+  }
+}

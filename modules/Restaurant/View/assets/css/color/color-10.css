@@ -1,0 +1,109 @@
+/*-----------------------------------------------------------------------
+/*  Theme Name  : STEAM Restaurant and Drinks
+/*  Theme URI   : http://www.spheretheme.com/steam
+/*  Description : STEAM - Restaurant, food and Drinks HTML5 website template is Modern, Clean and Professional site template.
+/*  Version     : 1.1
+/*  assets/css/colors/color-10.css
+/* This file is used for #3f51b5 color preset
+/*-----------------------------------------------------------------------
+*/
+
+/** selection **/
+
+*::-moz-selection {
+    background: #3f51b5;
+    color: #fff;
+    text-shadow: none;
+}
+
+::-moz-selection {
+    background: #3f51b5;
+    color: #fff;
+    text-shadow: none;
+}
+
+::selection {
+    background: #3f51b5;
+    color: #fff;
+    text-shadow: none;
+}
+
+.page-not-found .error-content h2,
+#menu .nav > li > a:hover,
+#menu .navbar-nav > .active > a,
+#menu .navbar-nav > .active > a:hover,
+#menu .navbar-nav > .active > a:focus,
+#menu .dropdown-menu li a:hover,
+.top .social li a:hover i,
+.divider .hr-icon,
+.menu .box .caption .price,
+.menu .box .caption h4,
+.dish .box .caption p,
+.blog .box .caption h4,
+footer .inner .contact li i,
+footer .inner li a:hover,
+.contactus form .icofont,
+.sidebar-box .search .btn i,
+.sidebar-box h6,
+.fun-factor .single-box:hover span,
+.testimonials span,
+.blog-detail .blogs .link .social li a:hover,
+.blog-detail .blogs .link .icon li a:hover {
+    color: #3f51b5;
+}
+
+.header-2 header,
+.header-1 header,
+.divider .hr-simple,
+#menu .nav > li > a::before,
+.menu .nav-tabs > li.active > a,
+.menu .nav-tabs > li.active > a:hover,
+.menu .nav-tabs > li.active > a:focus,
+.menu .nav-tabs > li > a:hover,
+.btn-theme-alt:hover,
+.btn-theme-alt:active:hover,
+.btn-theme-alt:focus,
+#newsletter,
+footer .footer-bottom,
+.bottom-top,
+.address .box .icon {
+    background: #3f51b5;
+}
+
+.btn-primary:hover,
+.btn-primary:active:hover,
+.btn-primary:focus,
+.btn-theme,
+.pagination .active a,
+.pagination .active span,
+.pagination .active > a:hover,
+.pagination .active span:hover,
+.pagination .active a:focus,
+.pagination .active > span:focus,
+.pagination li a:hover,
+.pagination li span:hover,
+.pagination li a:focus,
+.pagination li span:focus,
+.sidebar-box .tag li:hover {
+    background: #3f51b5;
+    border-color: #3f51b5;
+}
+
+.btn-theme:hover,
+.btn-theme:active:hover,
+.btn-theme:focus,
+.btn-theme-alt {
+    border-color: #3f51b5;
+    color: #3f51b5;
+}
+
+.contactus form .form-control:focus,
+.reservation form .form-control:focus,
+.sidebar-box .search input:focus,
+.blog-detail .comment .form-control:focus {
+    border-color: #3f51b5;
+}
+
+.blog-detail .blogs blockquote {
+    border-left-color: #3f51b5;
+}

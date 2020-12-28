@@ -1,0 +1,11 @@
+{
+  "name": "V8 Restaurant Module",
+  "url": "https:\/\/V8Engine.ir\/",
+  "description": "Sell Foods",
+  "version": "1.0.0",
+  "author": "Aliakbar Soleimani",
+  "authorUrl": "https:\/\/alisoleimani.ir\/",
+  "enable": true,
+  "mainTable": "branches",
+  "firstTime": false
+}

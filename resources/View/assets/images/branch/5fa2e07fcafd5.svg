@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 4000 4000">
+    <defs>
+        <style>
+            .cls-1 {
+            font-size: 66.667px;
+            fill: #111;
+            font-family: "PT Sans";
+            }
+
+            .cls-2 {
+            font-size: 300px;
+            font-family: "League Spartan";
+            font-weight: 700;
+            }
+        </style>
+    </defs>
+    <text id="SOCIAL_MEDIA_SERVICES" data-name="SOCIAL MEDIA SERVICES" class="cls-1" x="1687.288" y="2299.788">SOCIAL
+        MEDIA SERVICES
+    </text>
+    <text id="Bezfollow" class="cls-2" transform="translate(1099.284 2131.132) scale(1.244)">Bezfollow</text>
+</svg>
