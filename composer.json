@@ -8,6 +8,7 @@
   ],
   "license": ["MIT"],
   "minimum-stability": "stable",
+  "version": "1.0.0",
   "require": {
     "illuminate/routing": "^8.10",
     "illuminate/events": "^8.10",
