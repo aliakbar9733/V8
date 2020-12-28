@@ -7,7 +7,7 @@
   }],
   "type": "project",
   "license": ["MIT"],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "version": "1.0.0",
   "require": {
     "illuminate/routing": "^8.10",
