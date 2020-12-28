@@ -4,8 +4,8 @@
   "authors": [{
     "email": "alisoleimani.dev@gmail.com",
     "name": "Aliakbar Soleimani"
-  }
-  ],
+  }],
+  "type": "project",
   "license": ["MIT"],
   "minimum-stability": "stable",
   "version": "1.0.0",
@@ -20,6 +20,11 @@
     "illuminate/validation": "8.x-dev",
     "vlucas/phpdotenv": "^5.2@dev"
   },
+  "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/aliakbar9733/V8"
+  }
+  ],
   "config": {
     "preferred-install": {
       "*": "dist"
