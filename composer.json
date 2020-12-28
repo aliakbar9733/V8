@@ -10,6 +10,7 @@
   "minimum-stability": "dev",
   "version": "1.0.0",
   "require": {
+    "php": ">=7.4.0",
     "illuminate/routing": "^8.10",
     "illuminate/events": "^8.10",
     "illuminate/database": "8",
